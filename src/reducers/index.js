@@ -4,4 +4,4 @@ import {combineReducers} from "redux";
 const rootReducer=combineReducers({
     tellZodiac
 });
-export default rootReducer;
+export default rootReducer; 
